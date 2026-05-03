@@ -84,4 +84,4 @@ public class EncadrantService {
                              (e.getPrenom() != null && e.getPrenom().toLowerCase().contains(motCleLower)))
                 .collect(Collectors.toList());
     }
-}
+}// Amélioration par Ahmed

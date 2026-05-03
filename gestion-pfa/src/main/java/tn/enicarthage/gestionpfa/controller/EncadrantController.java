@@ -83,4 +83,4 @@ public class EncadrantController {
         encadrantService.delete(id);
         return ResponseEntity.noContent().build();
     }
-}
+}// Modification Personne 2

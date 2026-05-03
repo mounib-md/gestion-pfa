@@ -85,3 +85,5 @@ public class EncadrantService {
                 .collect(Collectors.toList());
     }
 }// Amélioration par Ahmed
+// Amélioration par zidnizar63-art
+// Amélioration par zidnizar63-art
